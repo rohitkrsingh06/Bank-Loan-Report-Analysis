@@ -84,20 +84,22 @@ Bank Loan Report Analysis
 
 Here are the interactive dashboard screens developed in Power BI for detailed credit risk and portfolio analysis:
 
-### 1. Details Dashboard
-*A granular grid report allowing deep-dive inspection into individual loan accounts, interest rates, installment amounts, and repayment progress.*
-
-![Details Dashboard](Details_Dashboard.png)
 
 ---
 
-### 2. Summary Dashboard
+### 1. Summary Dashboard
 *Focuses on portfolio health, categorizing performance into Good Loans vs. Bad Loans, and breaking down status-wise loan metrics.*
 
 ![Summary Dashboard](Summary_Dashboard.png)
 
 ---
 
+### 2. Details Dashboard
+*A granular grid report allowing deep-dive inspection into individual loan accounts, interest rates, installment amounts, and repayment progress.*
+
+![Details Dashboard](Details_Dashboard.png)
+
+---
 
 ### 3. Overview Dashboard
 *Provides a high-level visual summary of core KPIs, monthly application trends, loan distribution by state, term length, employee tenure, loan purpose, and homeownership status.*
