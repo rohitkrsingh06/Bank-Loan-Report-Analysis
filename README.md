@@ -90,7 +90,7 @@ Here are the interactive dashboard screens developed in Power BI for detailed cr
 ### 1. Summary Dashboard
 *Focuses on portfolio health, categorizing performance into Good Loans vs. Bad Loans, and breaking down status-wise loan metrics.*
 
-![Summary Dashboard](Summary Dashboard.png)
+![Summary Dashboard](Summary_Dashboard.png)
 
 ---
 
